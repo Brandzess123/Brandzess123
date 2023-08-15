@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 📫 How to reach me **lolikimngok@gmail.com**
+- 📫 How to reach me **Dang.mhieu123@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
